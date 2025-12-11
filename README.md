@@ -26,13 +26,6 @@ The app allows users to **sign in/up**, browse products, manage categories, add 
 - **Future Backend Integration**
   - Will support MongoDB or other backend services for persistent storage
 
----
-
-## Screenshots
-
-*(Add screenshots of your app screens here for better presentation)*
-
----
 
 ## Installation
 
